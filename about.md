@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey there! I'm a software engineer trying to grasp some Data Science know-how.
 
-### More Information
+### What am I up to?
 
-A place to include any other types of information that you'd like to include about yourself.
+Currently working at Stall Square with HQ in Melbourne, a great team that's disrupting how Leasing in the Retail sector works.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tiomno@gmail.com](mailto:tiomno@gmail.com)
+<a href="https://www.linkedin.com/in/tiomno/">LinkedIn</a>
